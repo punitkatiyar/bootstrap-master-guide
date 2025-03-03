@@ -8,3 +8,13 @@ Bootstrap is one of the most popular front-end frameworks for building responsiv
 -  More structured & scalable than pure HTML/CSS
 -  Pre-tested components ensure fewer UI bugs
 -  Better browser support than many other frameworks
+
+## Module in bootstrap
+
+- Layout	
+
+- Content	
+
+- Components	
+
+- Utilities
